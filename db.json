@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jimmy Susilo",
+      "email": "JimmySu@mail.com",
+      "password": "Admin123",
+      "isVerify": "true"
+    },
+    {
+      "name": "salsa",
+      "email": "salsa@Gmail.com",
+      "password": "dededesa2234",
+      "isVerufy": false,
+      "id": 2
+    },
+    {
+      "name": "sumire",
+      "email": "sumiresumo.com",
+      "password": "dededesa22434",
+      "isVerufy": false,
+      "id": 3
+    },
+    {
+      "name": "sumire",
+      "email": "sumiresumo6.com",
+      "password": "dededesa22434",
+      "isVerufy": false,
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "isVerufy": false,
+      "id": 5
+    },
+    {
+      "name": "caca",
+      "email": "cacabudiman@mail.com",
+      "password": "caca3435",
+      "isVerufy": false,
+      "id": 6
+    }
+  ]
+}
